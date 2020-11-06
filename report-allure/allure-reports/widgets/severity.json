@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4a80183ec5812a5b",
+  "name" : "Verify Saving and Deleting an author",
+  "time" : {
+    "start" : 1604051047470,
+    "stop" : 1604051047834,
+    "duration" : 364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c63e34c1e42bd2bb",
+  "name" : "Verify Saving and Deleting a genre",
+  "time" : {
+    "start" : 1604051047861,
+    "stop" : 1604051048083,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

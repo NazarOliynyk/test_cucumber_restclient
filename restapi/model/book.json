@@ -1,0 +1,15 @@
+{
+    "bookId": 0,
+    "bookName": "My first book",
+    "bookLanguage": "UKR",
+    "bookDescription": "Some book description",
+    "additional": {
+      "pageCount": 444,
+      "size": {
+        "height": 333.0,
+        "width": 222.0,
+        "length": 111.0
+      }
+    },
+    "publicationYear": 2005
+}

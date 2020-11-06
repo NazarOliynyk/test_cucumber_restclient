@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "EPUALVIW060E",
+    "children" : [ {
+      "name" : "50960",
+      "children" : [ {
+        "name" : "Verify Saving and Deleting an author",
+        "uid" : "95278944e0ed5503",
+        "parentUid" : "b5ca547bf31ec87e2372dcfdf2c450ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604048907406,
+          "stop" : 1604048907762,
+          "duration" : 356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Saving and Deleting an author",
+        "uid" : "4a80183ec5812a5b",
+        "parentUid" : "b5ca547bf31ec87e2372dcfdf2c450ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604051047470,
+          "stop" : 1604051047834,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Saving and Deleting a genre",
+        "uid" : "c63e34c1e42bd2bb",
+        "parentUid" : "b5ca547bf31ec87e2372dcfdf2c450ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604051047861,
+          "stop" : 1604051048083,
+          "duration" : 222
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Saving and Deleting a genre",
+        "uid" : "523b9fbceef2ae67",
+        "parentUid" : "b5ca547bf31ec87e2372dcfdf2c450ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604048907788,
+          "stop" : 1604048908024,
+          "duration" : 236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5ca547bf31ec87e2372dcfdf2c450ab"
+    } ],
+    "uid" : "cc1d2b68fa76370a31d3a6fe2cb9952f"
+  } ]
+}

@@ -1,0 +1,131 @@
+{
+  "uid" : "95278944e0ed5503",
+  "name" : "Verify Saving and Deleting an author",
+  "fullName" : "AuthorTest: Verify Saving and Deleting an author",
+  "historyId" : "bbe094bb1a5bb8b151d269fd3f5c4f8b",
+  "time" : {
+    "start" : 1604048907406,
+    "stop" : 1604048907762,
+    "duration" : 356
+  },
+  "description" : "Location - features/author.feature:3",
+  "descriptionHtml" : "Location - features/author.feature:3",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Location - features/author.feature:3",
+    "descriptionHtml" : "Location - features/author.feature:3",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I have to log in and get the token to proceed with authors",
+      "time" : {
+        "start" : 1604048907537,
+        "stop" : 1604048907632,
+        "duration" : 95
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I get the list of existing authors and generate the id that does not exist",
+      "time" : {
+        "start" : 1604048907632,
+        "stop" : 1604048907663,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I should save a new author with non-existing id and check whether it was saved successfully",
+      "time" : {
+        "start" : 1604048907663,
+        "stop" : 1604048907706,
+        "duration" : 43
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I should deleted the saved author and check whether it was deleted successfully",
+      "time" : {
+        "start" : 1604048907706,
+        "stop" : 1604048907762,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "feature",
+    "value" : "AuthorTest"
+  }, {
+    "name" : "package",
+    "value" : "features"
+  }, {
+    "name" : "suite",
+    "value" : "AuthorTest"
+  }, {
+    "name" : "story",
+    "value" : "Verify Saving and Deleting an author"
+  }, {
+    "name" : "testClass",
+    "value" : "author"
+  }, {
+    "name" : "thread",
+    "value" : "50960"
+  }, {
+    "name" : "host",
+    "value" : "EPUALVIW060E"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95278944e0ed5503.json",
+  "parameterValues" : [ ]
+}

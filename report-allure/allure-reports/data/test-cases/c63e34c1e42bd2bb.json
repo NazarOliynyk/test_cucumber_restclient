@@ -1,0 +1,141 @@
+{
+  "uid" : "c63e34c1e42bd2bb",
+  "name" : "Verify Saving and Deleting a genre",
+  "fullName" : "GenreTest: Verify Saving and Deleting a genre",
+  "historyId" : "a2f10883a0411a764d9aa0ef1de21285",
+  "time" : {
+    "start" : 1604051047861,
+    "stop" : 1604051048083,
+    "duration" : 222
+  },
+  "description" : "Location - features/genre.feature:3",
+  "descriptionHtml" : "Location - features/genre.feature:3",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Location - features/genre.feature:3",
+    "descriptionHtml" : "Location - features/genre.feature:3",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I have to log in and get the token to proceed with genres",
+      "time" : {
+        "start" : 1604051047868,
+        "stop" : 1604051047954,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I get the list of existing genres and generate the id that does not exist",
+      "time" : {
+        "start" : 1604051047954,
+        "stop" : 1604051047990,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I should save a new genre with non-existing id and check whether it was saved successfully",
+      "time" : {
+        "start" : 1604051047990,
+        "stop" : 1604051048036,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I should deleted the saved genre and check whether it was deleted successfully",
+      "time" : {
+        "start" : 1604051048036,
+        "stop" : 1604051048083,
+        "duration" : 47
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "feature",
+    "value" : "GenreTest"
+  }, {
+    "name" : "package",
+    "value" : "features"
+  }, {
+    "name" : "suite",
+    "value" : "GenreTest"
+  }, {
+    "name" : "story",
+    "value" : "Verify Saving and Deleting a genre"
+  }, {
+    "name" : "testClass",
+    "value" : "genre"
+  }, {
+    "name" : "thread",
+    "value" : "50960"
+  }, {
+    "name" : "host",
+    "value" : "EPUALVIW060E"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "523b9fbceef2ae67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604048907788,
+        "stop" : 1604048908024,
+        "duration" : 236
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c63e34c1e42bd2bb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "AuthorTest",
+    "children" : [ {
+      "name" : "Verify Saving and Deleting an author",
+      "uid" : "4a80183ec5812a5b",
+      "parentUid" : "222c62e96e27677b35fabaa3442bddd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604051047470,
+        "stop" : 1604051047834,
+        "duration" : 364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "222c62e96e27677b35fabaa3442bddd8"
+  }, {
+    "name" : "GenreTest",
+    "children" : [ {
+      "name" : "Verify Saving and Deleting a genre",
+      "uid" : "c63e34c1e42bd2bb",
+      "parentUid" : "8468e3f7e103838719d1773aec1e4dd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604051047861,
+        "stop" : 1604051048083,
+        "duration" : 222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8468e3f7e103838719d1773aec1e4dd8"
+  } ]
+}

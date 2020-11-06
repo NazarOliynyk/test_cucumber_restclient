@@ -1,0 +1,5 @@
+---
+:main_url: http://localhost:8080/api/library/
+:default_login: defaultUser
+:default_password: defaultPassword
+

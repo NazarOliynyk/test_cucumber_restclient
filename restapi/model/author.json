@@ -1,0 +1,14 @@
+{
+    "authorId": 0,
+    "authorName": {
+      "first": "Nazar",
+      "second": "Oliynyk"
+    },
+    "nationality": "Ukrainian",
+    "birth": {
+      "date": "1978-06-10",
+      "country": "Ukraine",
+      "city": "Lviv"
+    },
+    "authorDescription": "novelist"
+}
